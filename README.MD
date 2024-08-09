@@ -10,6 +10,8 @@ A página deverá ser construída utilizando a tecnologia ReactJS.
 
 A página de favoritos pode ser utilizada a estratégia que desejar para persistir as informações.
 
+O projeto final deverá ser entregue por e-mail, zipado, sem a pasta node_modules.
+
 ## Tecnologias a serem utilizadas
 
 Devem ser utilizadas as seguintes tecnologias:
