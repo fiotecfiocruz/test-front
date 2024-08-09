@@ -14,8 +14,8 @@ A página de favoritos pode ser utilizada a estratégia que desejar para persist
 
 Devem ser utilizadas as seguintes tecnologias:
 
-- HTML
-- CSS
+- HTML / CSS
+- React Bootstrap
 - Javascript
 - ReactJS
 
