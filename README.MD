@@ -4,11 +4,11 @@ Olá caro desenvolvedor, nesse teste analisaremos seu conhecimento geral e inclu
 
 ## Instruções
 
-A partir do layout e imagens disponibilizados, você deve implementar uma página web com o mesmo conteúdo.
+A partir do layout e imagens disponibilizados nesse repositório, você deve implementar uma página web com o mesmo conteúdo.
 
 A página deverá ser construída utilizando a tecnologia ReactJS.
 
-A página de favoritos pode ser utilizada a estratégia que desejar para persistir as informações.
+Para persistir informações, pode utilizar a estratégia que achar melhor.
 
 O projeto final deverá ser entregue por e-mail, zipado, sem a pasta node_modules.
 
@@ -17,20 +17,22 @@ O projeto final deverá ser entregue por e-mail, zipado, sem a pasta node_module
 Devem ser utilizadas as seguintes tecnologias:
 
 - HTML / CSS
-- React Bootstrap
+- Bootstrap
 - Javascript
 - ReactJS
 
 ## API
 
-Todo conteúdo dos projetos em destaque deve ser consumido através uma API utilizando a biblioteca json-server.
+O conteúdo deve ser consumido através uma API utilizando a biblioteca json-server.
 
 Utilize os seguintes endpoint's para carregar as informações.
 
+Lista de Projetos
 ```
 http://localhost:3000/projetos
 ```
 
+Detalhes de um Projeto
 ```
 http://localhost:3000/projetos/1
 ```
